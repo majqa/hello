@@ -1,1 +1,2 @@
 # hello
+Odrabiam lab1
